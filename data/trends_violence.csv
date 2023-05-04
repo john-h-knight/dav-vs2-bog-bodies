@@ -1,0 +1,18 @@
+﻿phase,violence_count,violence_type
+1,0,multiple
+2,2,shooting
+2,1,multiple
+2,2,hanging/strangulation
+2,2,blows to head
+3,2,blows to head
+3,1,cutting/stabbing
+4,1,blows to head
+5,4,blows to head
+5,6,cutting/stabbing
+5,2,decapitation
+5,6,hanging/strangulation
+5,6,multiple
+6,4,blows to head
+6,2,cutting/stabbing
+6,1,hanging/strangulation
+6,3,shooting

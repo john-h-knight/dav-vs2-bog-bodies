@@ -1,0 +1,10 @@
+﻿phase,death_count,death_type
+1,0,violence
+2,7,violence
+3,3,violence
+4,1,violence
+5,24,violence
+5,2,illness
+6,10,violence
+6,6,suicide
+6,4,accident

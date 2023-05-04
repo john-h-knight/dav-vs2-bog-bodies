@@ -1,0 +1,332 @@
+﻿id,phase,country,location,name,preservation,lat,long,sex,age
+1,6,Ireland,Tumbeagh,NA,bog mummy,53.34952,-7.76592,unknown,adult
+2,3,Ireland,Cashel,Cashel Man,bog mummy,52.98067,-7.3005994,male,adult
+3,4,Ireland,Derrycashel,Derrycashel Man,bog mummy,53.942388,-8.5399975,male,adult
+4,5,Ireland,Oldcroghan,Oldcroghan Man,bog mummy (partial),53.331781,-7.3014429,male,adult
+5,5,Ireland,Clonycavan,Clonycavan Man,bog mummy,53.52255,-7.0115,male,adult
+6,6,Ireland,Meenybraddan,Meenybraddan Woman,bog mummy,54.72986,-8.3221044,female,adult
+7,5,Ireland,Gallagh,Gallagh Man,bog mummy,53.436795,-8.4822901,male,adult
+8,5,Ireland,Baronstown West,Baronstown West Man,bog mummy (partial),53.211185,-6.8705258,male,adult
+9,5,Ireland,Cloonshannagh,Cloonshannagh Woman,bog skeleton,53.758306,-7.9955571,female,adult
+10,5,Ireland,Derryvarroge,Derryvarroge Man,bog mummy,53.352899,-6.807162,male,adult
+11,5,Ireland,Kinnakinelly ,Kinnakinelly ,bog skeleton,53.649914,-8.8552797,unknown,adult
+12,2,Ireland,Stonyisland,Stonyisland Man,bog skeleton,53.086506,-8.2843389,male,adult
+13,6,Ireland,Mossy Glen,NA,bog mummy,55.237472,-7.0181941,unknown,unknown
+14,6,Ireland,Emlagh,NA,bog mummy,52.175395,-9.9627243,male,child
+15,6,Ireland,Ardee,NA,bog mummy,53.858735,-6.540258,female,unknown
+16,6,Ireland,Derrindaffderg,NA,bog mummy,53.717088,-9.3641456,unknown,adult
+17,6,Ireland,Killerry,NA,bog mummy,54.236488,-8.3535284,male,adult
+18,6,Ireland,Gortmahonoge,NA,bog mummy,52.668919,-8.096817,male,adult
+19,6,Ireland,Rasharkin,NA,bog mummy,54.95531,-6.4864751,male,adult
+20,6,Ireland,Cloonkee,Mr Connel or Connolly,bog mummy,54.131468,-9.2706218,male,adult
+21,5,Ireland,Derrydooan Middle,NA,bog mummy,53.656688,-7.5696252,unknown,adult
+22,6,Ireland,Cloonbenes,NA,bog mummy,53.30146,-8.51068,unknown,child
+23,6,Ireland,Tawnamore,NA,bog mummy,54.17962,-8.93517,male,adult
+24,6,Ireland,Carnamoyle,NA,bog mummy,55.096823,-7.330314,female,adult
+25,6,Ireland,Leigh,NA,bog mummy,52.65538,-7.65645,male,adult
+26,6,Ireland,Ballykean,NA,bog mummy,53.2287,-7.28162,male,adult
+27,6,Ireland,Moanflugh,Denis Looney,bog mummy,51.96829,8.99064,male,adult
+28,6,Ireland,Ballykinard,Betty Thompson,bog mummy,55.18883,-7.67116,female,adult
+29,6,Ireland,near Athea,NA,bog mummy,52.45967,9.28085,female,adult
+30,6,Ireland,near Daingean,NA,bog skeleton,53.30045,-7.29563,unknown,adult
+31,6,Ireland,Garryclough,NA,bog mummy,52.68082,-7.61776,female,adult
+32,5,Ireland,Moydrum or Bogstown,NA,bog mummy,53.4296,-7.09238,male,adult
+33,5,United Kingdom,Lindow,Lindow I/Lindow Woman,bog mummy (head),53.32252,-2.26876,unknown,adult
+34,5,United Kingdom,Lindow,Lindow III,bog mummy,53.3232,-2.268883,male,adult
+35,2,United Kingdom,Hartlepool Bay,NA,bog skeleton,54.6757,-1.19509,male,adult
+36,5,United Kingdom,Worsley,Worsley Man,bog mummy (head),53.4823,-2.41533,male,adult
+37,5,United Kingdom,Worsley,Worsley Man,bog mummy (head),53.4823,-2.41533,male,adult
+38,3,United Kingdom,"Methwold, Hemplands Farm ",NA,bog skeleton,52.535008,0.483735,female,adult
+39,5,United Kingdom,Prestatyn,Prestatyn Child,bog skeleton,53.33543,-3.4053,unknown,child
+40,5,United Kingdom,Upware,NA,bog skeleton (cranium/mandible),52.30685,0.2425,male,adult
+41,3,United Kingdom,"Ely, Shippea Hill Farm",Shippea Man,bog skeleton,52.4304,0.4135,male,adult
+42,5,United Kingdom,"Merseyside, Leasowe",Leasowe man,bog skeleton,53.41062,-3.11467,male,adult
+43,5,United Kingdom,Amcotts,NA,bog mummy,53.6159,-0.7162,unknown,adult
+44,6,United Kingdom,Cromdale,NA,bog mummy,57.4216,-3.6665,unknown,adult
+45,6,United Kingdom,"Keiss, Clayton Hill",NA,bog mummy,58.55356,-3.1498,male,child
+46,6,United Kingdom,"Barrock, Quintfall Hill",NA,bog skeleton,58.5406,-3.204,male,adult
+47,6,United Kingdom,"Birsay, Orkney",NA,bog skeleton,59.1235,-3.312,female,child
+48,6,United Kingdom,"Gunnister, Shetland",NA,bog mummy,60.44215,-1.40505,male,adult
+49,6,United Kingdom,Lewis,NA,bog mummy,58.18607,-6.44781,male,adult
+50,6,United Kingdom,Cambusnethan,NA,bog mummy,55.7719,-3.89369,male,adult
+51,5,United Kingdom,Grewelthorpe,NA,bog mummy,54.1778,-1.741,male,adult
+52,6,United Kingdom,Quernmore,NA,bog mummy,54.01014,-2.69994,unknown,unknown
+53,4,United Kingdom,Soham,NA,bog skeleton,52.30465,0.345,unknown,adult
+54,6,United Kingdom,"Huntsgarth, Orkney",NA,bog mummy,59.0385,-3.1855,unknown,child
+55,4,United Kingdom,"Pilling, Kentucky Farm",NA,bog mummy (head),53.90902,-2.8523,female,adult
+56,3,United Kingdom,"Lynford, West Tofts",NA,bog skeleton,52.5033,0.705,unknown,adult
+57,3,United Kingdom,Methwold,Nancy,bog skeleton,52.522,0.40084,female,adult
+58,5,United Kingdom,"Clapham, Austwick Common",NA,bog skeleton,54.1163,-2.3698,female,adult
+59,2,United Kingdom,"Aberavon, Dock",NA,bog skeleton (cranium/mandible),51.5863,-3.7916,unknown,adult
+60,3,United Kingdom,"Oban, Dalrigh",NA,unknown,56.415,-5.4704,unknown,unknown
+61,6,United Kingdom,"Burgar, Orkney",NA,bog mummy,59.1116,-3.1489,female,adult
+62,6,United Kingdom,"Yarrow, Cowan's Croft",NA,bog mummy,55.4424,-3.1713,male,adult
+63,3,United Kingdom,Whixall,NA,bog mummy,52.92193,-2.7543,male,adult
+64,5,Netherlands,Yde,Yde Girl,bog mummy,53.0974,6.5853,female,child
+65,5,Netherlands,Eerste Exloërmond,Exloërmond Man,bog mummy,52.9202,6.9024,male,adult
+66,4,Netherlands,Emmen,Emmer-Erfscheidenveen Man,bog mummy,52.7977,6.9798,unknown,adult
+67,4,Netherlands,Weerdinge,NA,bog skeleton,52.833,6.9196,male,adult
+68,5,Netherlands,Zweeloo,Zweeloo Woman,bog mummy,52.8031,6.69736,female,adult
+69,5,Netherlands,Ter Haarsterveen,NA,bog mummy,52.8959,7.045,male,adult
+70,5,Netherlands,S.E. Drenthe/Erica,NA,bog mummy,52.7057,6.9428,male ,adult
+71,5,Netherlands,"IJmuiden, Duinvliet ",NA,bog skeleton (cranium/mandible),52.4649,4.6198,unknown,adult
+72,5,Germany,Barel,Bareler Moor Girl,bog mummy,53.001296,8.433104,female,child
+73,5,Germany,Marx-Etzel,NA,bog skeleton,53.440507,7.866,unknown,adult
+74,5,Germany,Marx-Stapelstein,NA,bog mummy,53.45498,7.8736,unknown,unknown
+75,5,Germany,Obenaltendorf,Obenaltendorf Man,bog mummy,53.72876,9.268856,male,adult
+76,5,Germany,Neu Versen,Roter Franz/Neu-Versen Man,bog mummy,52.717839,7.151413,male,adult
+77,6,Germany,Kreepen,Kreepen Man/Brammer Man,bog mummy,52.97172,9.3462,male,adult
+78,5,Germany,Tannenhausen,Bernuthsfeld Man/Bernie,bog mummy,53.531253,7.474823,male,adult
+79,5,Germany,Kayhausen,Kayhausen Boy,bog mummy,53.16189,8.04253,male,child
+80,5,Germany,Bockhorn,Jührdenerfeld Man/Bockhornerfeld Man,bog mummy,53.326208,8.002167,male,adult
+81,6,Germany,Hunteburg,Hunteburg Foot,bog mummy (partial),52.435044,8.2125,unknown,adult
+82,5,Germany,Hunteburg,Hunteburg III,bog skeleton (partial),52.4492,8.19529,male,adult
+83,6,Germany,Burlage,Kind von Eserweger Dose/Junge von Burlage/Burli,bog skeleton,53.034167,7.663333,male,child
+84,5,Germany,Neu-England,Neu-England Man,bog mummy,53.308134,7.88239,male,adult
+85,5,Germany,Bentstreek,Bentstreek Foot,bog mummy (partial),53.3737,7.8558,unknown,unknown
+86,6,Germany,Barnstorf,Johann Spieker/Jan Spieker,bog mummy,52.711415,8.379286,male,adult
+87,5,Germany,Rendswühren,Rendswühren Man,bog mummy,54.065278,10.1675,male,adult
+88,5,Germany,Bunsoh,Bunsoh,bog mummy,54.152906,9.341067,unknown,adult
+89,5,Germany,Damendorf,Damendorf Man,bog mummy,54.4227,9.743114,male,adult
+90,5,Germany,Röst,Röst Girl,bog mummy,54.1075,9.229444,female,child
+91,5,Germany,Damendorf,Damendorf Girl,bog skeleton,54.422,9.7358,female,child
+92,5,Germany,Osterby,Osterby Man,bog mummy (head),54.447461,9.769292,male,adult
+93,5,Germany,Dätgen,Dätgen Man,bog mummy,54.162572,9.928529,male,adult
+94,5,Germany,Stemmen,NA,bog mummy,53.240205,9.603853,male,adult
+95,5,Germany,Uchte ,Moora ,bog mummy,52.50393,8.80926,female,adult
+96,6,Germany,Peiting,Peiting Woman/Rosalinde,bog mummy,47.815583,10.970417,female,adult
+97,6,Germany,Pangerfilze,NA,bog mummy,47.83344,12.038956,male,adult
+98,5,Poland,Drwęck (formerly Dröbnitz),Dröbnitz Girl,bog mummy,53.559167,20.207222,female,child
+99,5,Poland,Karwiny (formerly Karwinden),Karwinden Man,bog mummy,54.14092,19.8289,male,adult
+100,5,Poland,Dabrowka,NA,bog skeleton,52.96103,19.09785,unknown,adult
+101,6,Estonia,Raplamaa,NA,bog mummy,59.126807,24.711644,female,adult
+102,1,Norway,"Haugesund, Bleivik",NA,bog skeleton,59.4705,5.2443,male,adult
+103,6,Norway,"Andøya, Skjoldehamn",NA,bog skeleton,68.8793,15.4921,female,adult
+104,5,Norway,"Vea store, Nærøy",NA,bog skeleton (cranium/mandible),64.9127,11.8198,female,adult
+105,5,Norway,"Skorpa, Dønna",NA,bog skeleton,66.0404,12.5395,female,adult
+106,5,Norway,"Hedmark, Starene",NA,bog skeleton (partial),60.7677,11.2255,female,adult
+107,5,Norway,"Hedmark, Kinnlitjernet; also called Kolstad",NA,bog skeleton (partial),60.8865,10.8078,female,adult
+108,5,Norway,"Hedmark, Rytjernet",NA,bog skeleton (partial),60.8154,11.1665,male,adult
+109,5,Norway,"Hedmark, Lang Re and Nordre Rå, Hvitbjerg-tjennet",skeleton I,bog skeleton,60.6711,11.1388,male,adult
+110,5,Norway,"Hedmark, Skytra",NA,bog skeleton (cranium/mandible),60.7456,11.2633,male,adult
+111,6,Sweden,Dannike,Dannikekvinnan/Dannike-Frau,bog mummy,57.688,13.2265,female,adult
+112,6,Sweden,"Rolfstorp, Bocksten farm",Bocksten Man,bog mummy,57.1169,12.5733,male,adult
+113,2,Sweden,Luttra,Hallonflickan/Raspberry girl,bog skeleton,58.11395,13.5188,female,adult
+114,2,Sweden,Härlingstorp,Härlingstorp girl,bog skeleton,58.378,13.5842,female,adult
+115,2,Sweden,Rolfsåker,NA,bog skeleton,57.4803,12.14,male,adult
+116,5,Sweden,Östra Vemmerlöv,NA,bog skeleton,55.582413,14.232195,female,adult
+117,3,Sweden,Ljungsbro,NA,bog skeleton (cranium/mandible),58.5038,15.505,male,adult
+118,3,Sweden,"Ölsund, Forsa parish, Hälsingland",NA,bog skeleton (cranium/mandible),61.6668,16.9849,male,adult
+119,3,Sweden,Nossamaden,NA,bog skeleton (cranium/mandible),58.170706,12.996791,female,adult
+120,5,Sweden,"Torresta, Häljebolsta",Torresta Man,bog skeleton,59.5333,17.4833,male,adult
+121,4,Sweden,"Gotland, Alva my, Frigsarve",NA,bog skeleton,57.2074,18.361,male,adult
+122,4,Sweden,"Närke, Kvarntorp",NA,bog skeleton (cranium/mandible),59.142,15.289,female,adult
+123,4,Sweden,"Vendel, Gryteby/Gryttby",NA,bog skeleton,60.1333,17.5665,female,adult
+124,5,Sweden,Gullåkra,NA,bog skeleton (cranium/mandible),55.6558,13.2043,unknown,adult
+125,2,Sweden,Vallby (also mentioned as Wallby),NA,bog skeleton (cranium/mandible),55.6497,13.2862,unknown,adult
+126,5,Sweden,Gullåkra,NA,bog skeleton (cranium/mandible),55.6653,13.21,unknown,adult
+127,5,Sweden,Hyby,NA,bog skeleton,55.5804,13.2583,male,adult
+128,1,Sweden,Skåne,NA,bog skeleton,57.2808,13.9445,unknown,child
+129,1,Sweden,"Bredgården, Marbäck 115",NA,bog skeleton,57.7438,13.4155,male,adult
+130,5,Sweden,"Lyngby, Everöd",NA,bog skeleton,55.893,14.1145,male,adult
+131,5,Sweden,"Bergsgårdens utmark, Gökhem",NA,bog skeleton,58.1628,13.375,female,adult
+132,5,Sweden,"Rogestorp Nedergården, Gökhem",NA,bog skeleton,58.1458,13.1458,male,adult
+133,5,Sweden,"Grolanda 97, Skånum, Gärdet 6:1",NA,bog skeleton,58.0689,13.3544,female,adult
+134,5,Sweden,"Myren, Malmön, Bohuslän",NA,bog skeleton,58.3416,11.3246,unknown,adult
+135,5,Sweden,"Granhammar, Uppland",Granhammar Man,bog skeleton,59.52421,17.784084,male,adult
+136,2,Sweden,"Munkarp, Ageröd I",NA,bog skeleton (partial),55.9348,13.428,unknown,unknown
+137,5,Denmark,Aars,Borremose I/Borremose Man,bog mummy,56.7897,9.5697,male,adult
+138,5,Denmark,Aars,Borremose III/Borremose Woman,bog mummy,56.7945,9.5755,female,adult
+139,5,Denmark,Baunsø,Baunsø,bog mummy,56.611,9.586,male,adult
+140,5,Denmark,Corselitze Hovedgaard,Corselitze Woman,bog mummy,54.768,12.02,female,adult
+141,5,Denmark,Fræer,NA,bog mummy,56.8594,9.9327,male,adult
+142,5,Denmark,"Nørre Knudstrup, Grathe Hede",NA,bog mummy,56.256,9.313,unknown,unknown
+143,5,Denmark,Vejle,Haraldskær Woman,bog mummy,55.702778,9.439444,female,adult
+144,5,Denmark,Horreby,NA,bog mummy,54.8149,12.0099,unknown,unknown
+145,5,Denmark,Ramten,Huldremose Woman/Huldremose I,bog mummy,56.4442,10.6308,female,adult
+146,5,Denmark,Torslev,NA,bog mummy,57.35515,10.264,unknown,adult
+147,5,Denmark,Roum,NA,bog mummy (head),56.606,9.5523,male,adult
+148,5,Denmark,Stidsholt,NA,bog mummy (head),57.2718,10.4352,female,adult
+149,5,Denmark,Thorup,Thorup I,bog mummy,56.6961,9.6036,unknown,child
+150,5,Denmark,Rostrup,NA,bog skeleton (partial),56.7655,9.9488,unknown,adult
+151,5,Denmark,Undelev,NA,bog mummy,54.903571,9.459037,male,adult
+152,5,Denmark,Verst,NA,bog mummy,55.6087,9.2095,male,adult
+153,5,Denmark,Vindum,NA,bog skeleton,56.374,9.5797,unknown,adult
+154,5,Denmark,Auning,Auning woman,bog mummy,56.4304,10.3767,female,adult
+155,5,Denmark,Storarden,Arden Woman,bog mummy,56.7608,9.8829,female,adult
+156,5,Denmark,Grauballe,Grauballe Man,bog mummy,56.2097,9.6303,male,adult
+157,5,Denmark,Karlby,NA,bog skeleton,56.4735,10.8622,male,adult
+158,5,Denmark,Jelling,NA,bog mummy,55.7079,9.3484,female,adult
+159,5,Denmark,Skærum,NA,bog mummy,57.4351,10.3318,unknown,unknown
+160,2,Denmark,Veksø,NA,bog skeleton,55.7603,12.2586,female,adult
+161,2,Denmark,Ferle,NA,bog skeleton,56.0835,12.3663,female,adult
+162,2,Denmark,Tammosegård ,NA,bog skeleton,56.092633,12.287794,unknown,child
+163,2,Denmark,Kongsted,NA,bog skeleton (cranium/mandible),55.579,11.4285,unknown,adult
+164,2,Denmark,Bøstrup,NA,bog skeleton,55.043,10.8776,male,adult
+165,2,Denmark,Vængegårds torvfabrik,NA,bog skeleton,55.5335,11.764,female,adult
+166,2,Denmark,"Naestved, Hole Ostrup",Porsmose Man,bog skeleton,55.2764,11.8749,male,adult
+167,3,Denmark,Hillerød,NA,bog skeleton,55.912911,12.300616,male,adult
+168,2,Denmark,"Hillerød, Hillerød hospital",NA,bog skeleton,55.9138,12.3263,male,adult
+169,3,Denmark,"Møllebakkegård, Højby",Stenstrup,bog skeleton,55.196377,11.781733,male,adult
+170,3,Denmark,Føllenslev,Føllenslev Mose Man,bog skeleton,55.729945,11.358124,male,adult
+171,1,Denmark,Vissenbjerg,Koelbjerg Man,bog skeleton,55.40377369,10.13342681,male,adult
+172,5,Denmark,"Jørlunde, Frederiksborg",NA,bog skeleton,55.831879,12.20967,female,adult
+173,2,Denmark,Hallebygård,NA,bog skeleton,55.596064,11.316235,male,adult
+174,6,Denmark,"Fredriksdal, Kragelund",NA,bog mummy,56.233528,9.386087,male,adult
+175,4,Denmark,"Hove, Hove å",NA,bog skeleton,55.724526,12.246677,male,adult
+176,5,Denmark,Gelsted,NA,bog skeleton,55.311846,11.74585,unknown,unknown
+177,5,Denmark,Verup,NA,bog skeleton,55.584377,11.502521,female,adult
+178,5,Denmark,Ammendrup,NA,bog skeleton,55.094901,12.010721,female,adult
+179,5,Denmark,Gadevang ,Gadevang Man,bog skeleton,55.949,12.296825,male,adult
+180,5,Denmark,Ølstykke,NA,bog skeleton,55.802891,12.191064,male,adult
+181,5,Denmark,"Asperup, Tværvejen etape III",Åbymanden,bog skeleton,55.475434,9.89667,male,adult
+182,5,Denmark,Bukkerup,NA,bog skeleton (partial),55.284702,10.053852,male,adult
+183,2,Denmark,Stistrup Kær,NA,bog skeleton (cranium/mandible),56.749991,9.281891,female,adult
+184,3,Denmark,Hyllebjerg,NA,bog skeleton,56.822427,9.280674,female,adult
+185,5,Denmark,Sønderlade,Sønderlade VIII,bog skeleton (cranium/mandible),56.839764,9.25701,female,adult
+186,5,Denmark,Sønderup Kær,Sønderup Kær,bog skeleton (partial),56.807412,9.628481,female,adult
+187,5,Denmark,Skivum,NA,bog skeleton (cranium/mandible),56.868738,9.585233,male,adult
+188,5,Denmark,Gøttrup,NA,bog skeleton,56.803794,9.34394,female,adult
+189,5,Denmark,Hestbæk,Hestbæk III,bog skeleton,56.717459,9.22741,female,adult
+190,5,Denmark,Vilsted,NA,bog skeleton,56.901522,9.283464,male,adult
+191,5,Denmark,Stubberup,NA,bog skeleton,56.709949,9.932946,unknown,child
+192,2,Denmark,Ulkestrup Lyng U,NA,bog skeleton (cranium/mandible),55.592152,11.536813,unknown,unknown
+193,5,Denmark,"Hasle, Blichersvej",NA,bog skeleton,56.162134,10.153346,female,adult
+194,5,Denmark,Vinkel,NA,bog skeleton,56.554729,9.138358,unknown,adult
+195,5,Denmark,Hannerup,NA,bog skeleton (cranium/mandible),56.661819,9.651907,unknown,adult
+196,5,Denmark,Balling,NA,bog skeleton (cranium/mandible),56.62182,8.85376,unknown,adult
+197,5,Denmark  ,Vinderup,NA,bog skeleton,56.493842,8.827585,female,adult
+198,5,Ireland,Derrymaquirk,Derrymaquirk Woman,bog skeleton,54.848625,-6.84429,female,adult
+199,5,Ireland,Derrymaquirk,NA,bog skeleton (cranium/mandible),54.848625,-6.84429,unknown,child
+200,6,United Kingdom,Hope,NA,bog mummy,53.3437,-1.746,male,adult
+201,6,United Kingdom,Hope,NA,bog mummy,53.3437,-1.746,female,adult
+202,6,United Kingdom,"Norsewick, Shetland",NA,bog mummy,60.2872,-1.3505,male,adult
+203,6,United Kingdom,"Norsewick, Shetland",NA,bog mummy,60.2872,-1.3505,female,adult
+204,6,Netherlands,Wijster,Wijster Four,bog mummy,52.797194,6.517053,unknown,adult
+205,6,Netherlands,Wijster,Wijster Four,bog mummy,52.797194,6.517053,unknown,adult
+206,6,Netherlands,Wijster,Wijster Four,bog mummy,52.797194,6.517053,unknown,unknown
+207,6,Netherlands,Wijster,Wijster Four,bog mummy,52.797194,6.517053,unknown,child
+208,5,Netherlands,Weerdinge,Weerdinge couple (I),bog mummy,52.8457,6.9578,male,adult
+209,5,Netherlands,Weerdinge,Weerdinge couple (II),bog mummy,52.8457,6.9578,male,adult
+210,5,Germany,Hunteburg,Hunteburg Men (I),bog mummy,52.455042,8.195715,male,adult
+211,5,Germany,Hunteburg,Hunteburg Men (II),bog mummy,52.455042,8.195715,male,adult
+212,3,Sweden,Kiaby,"northern boat, skeleton II",bog skeleton,56.073295,14.317569,male,adult
+213,3,Sweden,Kiaby,"southern boat, skeleton I",bog skeleton,56.073295,14.317569,male,adult
+214,3,Sweden,Kiaby,"southern boat, skeleton III",bog skeleton,56.073295,14.317569,unknown,child
+215,5,Denmark,Aars,Borremose II,bog mummy,56.7933,9.58194,female,adult
+216,5,Denmark,Aars,infant associated with Borremose II,bog skeleton,56.7933,9.58194,unknown,child
+217,2,Denmark,Veksø,Sigersdal A,bog skeleton,55.7599,12.2583,female,adult
+218,2,Denmark,Veksø,Sigersdal B,bog skeleton,55.7599,12.2583,female,child
+219,2,Denmark,"Svenstrup, Bolkilde (also Boelkilde)",Bolkilde I,bog skeleton,55.0269,9.8332,male,child
+220,2,Denmark,"Svenstrup, Bolkilde (also Boelkilde)",Bolkilde II,bog skeleton,55.0269,9.8332,male,adult
+221,2,Denmark,Døjringe,Døjringe I,bog skeleton,55.490014,11.568318,male,adult
+222,2,Denmark,Døjringe,Døjringe II,bog skeleton,55.490014,11.568318,male,adult
+223,3,United Kingdom,Methwold,NA,bog skeleton,52.5204,0.40257,female,adult
+224,3,United Kingdom,Methwold,NA,bog skeleton,51.520372,0.40245317,unknown,child
+225,3,United Kingdom,"Methwold, Methwold Severals",40/2 (Turner 1995b),bog skeleton,52.5435,0.4326,male,adult
+226,3,United Kingdom,"Methwold, Methwold Severals",40/3 (Turner 1995b),bog skeleton,52.5435,0.4326,female,adult
+227,3,United Kingdom,"Methwold, Methwold Severals",40/5 (Turner 1995b),bog skeleton,52.5435,0.4326,unknown,child
+228,3,United Kingdom,"Methwold, Methwold Severals",41/1 (Turner 1995b),bog skeleton,52.5444,0.4326,male,adult
+229,3,United Kingdom,"Methwold, Methwold Severals",41/2 (Turner 1995b),bog skeleton,52.5444,0.4326,unknown,child
+230,3,United Kingdom,"Methwold, Methwold Severals",41/3 (Turner 1995b),bog skeleton,52.5444,0.4326,unknown,child
+231,5,United Kingdom,"Peterborough, Fengate Power Station",3/1 (Turner 1995b),bog skeleton,52.5763,-0.2036,unknown,adult
+232,5,United Kingdom,"Peterborough, Fengate Power Station",3/2 (Turner 1995b,bog skeleton (partial),52.5763,-0.2036,unknown,unknown
+233,5,United Kingdom,"Peterborough, Fengate Power Station",3/3 (Turner 1995c),bog skeleton (partial),52.5763,-0.2036,unknown,unknown
+234,5,United Kingdom,Burwell,NA,bog skeleton (cranium/mandible),52.279,0.29955,female,adult
+235,4,United Kingdom,Burwell,NA,bog skeleton (cranium/mandible),52.279,0.29955,female,adult
+236,4,United Kingdom,Feltwell,NA,bog skeleton (cranium/mandible),52.3951,0.3506,unknown,unknown
+237,5,Netherlands,Velserbroek B6,NA,bog skeleton (partial),52.43335,4.6492,unknown,unknown
+238,5,Germany,Husbäke Man,Husbäke Man/Husbäke II,bog mummy,53.091241,7.964058,male,adult
+239,5,Germany,Windeby,Windeby I/Windeby child,bog mummy,54.451503,9.825726,male,child
+240,5,Lithuania,Širvintų,NA,bog skeleton,54.3563,23.320225,male,adult
+241,5,Norway,Leinsmyra,NA,bog skeleton,59.1803,6.1629,female,child
+242,5,Norway,Leinsmyra,NA,bog skeleton,59.1803,6.1629,female,adult
+243,5,Norway,"Hedmark, Lang Re and Nordre Rå, Råtjennet",skeleton II,bog skeleton (cranium/mandible),60.6711,11.1388,male,adult
+244,5,Norway,"Hedmark, Lang Re and Nordre Rå, Råtjennet",skeleton III,bog skeleton (partial),60.6711,11.1388,female,adult
+245,2,Sweden,Sandåkra,NA,bog skeleton,55.498394,13.5134,female,adult
+246,2,Sweden ,Saxtorp,individual 3,bog skeleton (partial),55.838914,12.961232,unknown,unknown
+247,2,Sweden,Saxtorp,individual 1,bog skeleton (partial),55.838914,12.961232,female,adult
+248,2,Sweden,Saxtorp,individual 2,bog skeleton (partial),55.838914,12.961232,female,unknown
+249,5,Sweden,Saxtorp,layer 103,bog skeleton (partial),55.838914,12.961232,unknown,unknown
+250,5,Sweden,"Öland, Gärdlösa",ind. 11,bog skeleton,56.837683,16.742526,unknown,child
+251,5,Sweden,"Öland, Gärdlösa",ind. 37,bog skeleton,56.837683,16.742526,female,adult
+252,5,Sweden,"Öland, Gärdlösa",ind. 6,bog skeleton,56.837683,16.742526,female,adult
+253,5,Sweden,"Öland, Gärdlösa",ind. 7,bog skeleton,56.837683,16.742526,male,adult
+254,5,Sweden,"Öland, Gärdlösa",ind. 8,bog skeleton,56.837683,16.742526,male,adult
+255,5,Sweden,"Öland, Gärdlösa",ind. 12,bog skeleton,56.837683,16.742526,female,adult
+256,5,Sweden,"Öland, Gärdlösa",ind. 15,bog skeleton,56.837683,16.742526,female,adult
+257,5,Sweden,"Öland, Gärdlösa",ind. 18,bog skeleton,56.837683,16.742526,male,adult
+258,5,Sweden,"Öland, Gärdlösa",ind. 2,bog skeleton,56.837683,16.742526,male,adult
+259,5,Sweden,"Öland, Gärdlösa",ind. 23,bog skeleton,56.837683,16.742526,unknown,child
+260,5,Sweden,"Öland, Gärdlösa",ind. 26,bog skeleton,56.837683,16.742526,female,adult
+261,5,Sweden,"Öland, Gärdlösa",ind. 27,bog skeleton,56.837683,16.742526,male,adult
+262,5,Sweden,"Öland, Gärdlösa",ind. 30,bog skeleton,56.837683,16.742526,male,adult
+263,5,Sweden,"Öland, Gärdlösa",ind. 30,bog skeleton,56.837683,16.742526,male,adult
+264,2,Sweden,"Gotland, Alva myr, SHM 20224",NA,bog skeleton (partial),57.2074,18.361,unknown,adult
+265,5,Sweden,"Gotland, Alva myr, SHM 20224",NA,bog skeleton,57.2074,18.361,female,adult
+266,5,Sweden,Hässleberga,Sk. 27,bog skeleton,55.5919,13.3195,unknown,adult
+267,5,Sweden,Öland,NA,bog skeleton (cranium/mandible),56.7785,16.6123,female,adult
+268,6,Sweden,Öland,NA,bog skeleton (cranium/mandible),56.7785,16.6123,male,adult
+269,5,Sweden,Östra Vemmerlöv,"pit B, human 1",bog skeleton (partial),55.583,14.2315,unknown,adult
+270,5,Sweden,Östra Vemmerlöv,"pit B, human 2",bog skeleton (partial),55.583,14.2315,unknown,adult
+271,5,Sweden,Östra Vemmerlöv,"pit B, human 3",bog skeleton (partial),55.583,14.2315,female,adult
+272,5,Sweden,Östra Vemmerlöv,"pit C, human 4, child 2",bog skeleton,55.583,14.2315,unknown,child
+273,5,Sweden,Östra Vemmerlöv,"pit B, human 5, child 1",bog skeleton (partial),55.583,14.2315,unknown,child
+274,5,Sweden,Östra Vemmerlöv,"pit C, human 6",bog skeleton (cranium/mandible),55.583,14.2315,unknown,adult
+275,5,Sweden,Östra Vemmerlöv,"pit C, human 7",bog skeleton (cranium/mandible),55.583,14.2315,unknown,adult
+276,2,Sweden,"Malmö, Lindängelund",NA,bog skeleton (cranium/mandible),55.5506,13.014,unknown,adult
+277,2,Sweden,"Malmö, Lindängelund",NA,bog skeleton (cranium/mandible),55.5506,13.014,unknown,adult
+278,5,Denmark,Bjaeldskovdal,Elling Woman,bog mummy,56.1651,9.3938,female,adult
+279,5,Denmark,Bjaeldskovdal,Tollund Man,bog mummy,56.1648,9.3924,male,adult
+280,5,Denmark,Rønbjerg,Rønbjerg II,bog mummy,56.5344,8.9343,unknown,unknown
+281,5,Denmark,Rønbjerg,Rønbjerg III,bog mummy,56.5344,8.9343,male,adult
+282,1,Denmark,Verup,NA,bog skeleton (partial),55.585998,11.532154,unknown,adult
+283,2,Denmark,Verup,NA,bog skeleton (partial),55.585998,11.532154,male,adult
+284,2,Denmark,"Myrebjerg, Nordenbro",NA,bog skeleton,54.767221,10.677594,female,adult
+285,2,Denmark,Hesselbjerg,NA,bog skeleton,54.81801,10.676722,female,adult
+286,2,Denmark,Ulvemosen,NA,bog skeleton,56.059429,9.177708,unknown,child
+287,2,Denmark,Nybølle,NA,bog skeleton (cranium/mandible),55.708668,12.250489,female,adult
+288,2,Denmark,"Øgårde, Store lyng",Øgårde boat III,bog skeleton,55.596268,11.566439,unknown,unknown
+289,2,Denmark,"Østrup, Store lyng",Østrup mose 1,bog skeleton,55.590373,11.60922,female,adult
+290,2,Denmark,"Østrup, Store lyng",Østrup mose 2,bog skeleton,55.590373,11.60922,male,adult
+291,2,Denmark,"Østrup, Store lyng",Østrup homo II,bog skeleton,55.590373,11.60922,unknown,adult
+292,5,Denmark,"Hammer, Storstrøm",NA,bog skeleton,55.10328,10.433683,male,adult
+293,4,Denmark,Odense-north,NA,bog skeleton (cranium/mandible),55.450938,10.288739,unknown,unknown
+294,5,Denmark,Birket,NA,bog skeleton,54.8862,11.3144,male,adult
+295,5,Denmark,Tyvelse,NA,bog skeleton,55.377852,11.699494,unknown,unknown
+296,5,Denmark,Tybjerg,Tybjerg Mose I,bog skeleton,55.35459,11.7934,male,adult
+297,5,Denmark,Rislev ,Rislev I,bog skeleton,55.289384,11.730081,female,adult
+298,5,Denmark,Rislev ,Rislev II,bog skeleton,55.289384,11.730081,female,adult
+299,5,Denmark,Nørre Asmindrup,NA,bog skeleton,55.892587,11.587325,male,adult
+300,5,Denmark,Rynkeby,NA,bog skeleton (partial),55.390797,10.592857,male,adult
+301,5,Denmark,Hald,NA,bog skeleton (cranium/mandible),56.598,9.191,unknown,adult
+302,2,Denmark,Aunsø,NA,bog skeleton,55.615,11.3308,male,adult
+303,2,Denmark,Aunsø,NA,bog skeleton,55.615,11.3308,male,adult
+304,2,Denmark,Jordløse,NA,bog skeleton,55.609756,11.320781,male,adult
+305,5,Denmark,Jordløse,NA,bog skeleton,55.609329,11.323282,male,adult
+306,5,Denmark,Riskærene,Riskærene I,bog skeleton (partial),56.771757,9.544665,unknown,child
+307,5,Denmark,Riskærene,Riskærene II,bog skeleton,56.772764,9.545874,female,child
+308,5,Denmark,Illerup,NA,bog skeleton (partial),56.04833,9.856352,male,adult
+309,5,Denmark,Søgård,Søgård I/Søgårds Man,bog mummy,54.9355,9.4668,male,adult
+310,5,Denmark,Søgård,Søgård II,bog mummy,54.9355,9.4668,male,adult
+311,5,Denmark,Illerup Ådalen,NA,bog skeleton,56.05322,9.93316,male,adult
+312,5,Denmark,Illerup Ådalen,NA,bog skeleton (partial),56.05322,9.93316,unknown,unknown
+313,5,Denmark,Illerup Ådalen,NA,bog skeleton (partial),56.05322,9.93316,unknown,unknown
+314,5,Denmark,Illerup Ådalen,NA,bog skeleton (partial),56.05322,9.93316,unknown,unknown
+315,5,Finland,"Vörå, Käldämäki",NA,bog skeleton,63.1526,22.17635,unknown,unknown
+316,1,Sweden,"Hanaskede, Skärv",NA,bog skeleton (partial),58.3967,13.5362,male,adult
+317,6,United Kingdom,"Corsgeiloch, Carsgeiloch Hill, Martyrs Grave",Joseph Wilson,bog mummy,55.40441,-4.29603,male,adult
+318,5,Norway,"Bø, Hå, Rogaland ",NA,bog skeleton,58.591,5.7529,unknown,child
+319,5,Denmark,Alken,x1297,bog skeleton (partial),56.048768,9.849579,mixed,mixed 
+320,6,United Kingdom,Culrain,NA,bog skeleton,57.9028,-4.484,unknown,unknown
+321,6,United Kingdom,"Bressay, Shetland",NA,bog mummy,60.1501,-1.1008,unknown,unknown
+322,3,United Kingdom,"Balgone 1-2, North Berwick",NA,bog skeleton,56.0333,-2.7016,unknown,unknown
+323,5,Germany,"Oberdorla, Rieth",NA,bog skeleton,51.16226,10.4465,mixed,mixed 
+324,2,Estonia,Võrumaa,NA,bog skeleton,57.84571,26.980405,mixed,mixed 
+325,6,Norway,Guddal,NA,bog mummy,61.2465,5.5302,mixed,mixed 
+326,2,Sweden,Alvastra,NA,bog skeleton (partial),58.2965,14.657,unknown,mixed 
+327,3,Sweden,"Malmö, Hindbygården",NA,bog skeleton (partial),55.570537,13.042273,unknown,mixed 
+328,5,Sweden,"Närtura, Hederviken",NA,skeletal remains,59.6933,18.1515,mixed,mixed 
+329,5,Sweden,Knivsta,NA,bog skeleton,59.7256,17.7866,mixed,mixed 
+330,5,Sweden,"Finnestorp, Västergötland",Finnestorp,bog skeleton,58.17085,13.2341,unknown,unknown
+331,5,Finland,"Isokyrö, Levänluhta",NA,bog skeleton (partial),62.9489,22.4105,mixed,mixed 
