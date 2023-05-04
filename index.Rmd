@@ -21,74 +21,11 @@ library(RColorBrewer)
 
 <br>
 
-### Scene setter {.tabset}
+*The section below was envisioned as an addition to [The New York Times article](https://www.nytimes.com/2023/01/30/science/archaeology-bogs-mummies.html) about new [research](https://www.cambridge.org/core/journals/antiquity/article/bogs-bones-and-bodies-the-deposition-of-human-remains-in-northern-european-mires-9000-bcad-1900/B90A16A211894CB87906A7BCFC0B2FC7#) on mummified remains in European bogs.*
 
 <br>
 
-#### Background
-
--   NYT article about bog bodies
-
--   Centered around new research with amplifying info about the topic in general
-
--   Links to research publication, but doesn't incorporate a lot of the data
-
--   Research is fairly dense with academic graphics
-
--   Interesting mix of geospatial, categorical, and numerical data
-
-#### Context
-
--   My goal was to remake the graphics and embed them in the original article
-
--   Reader is scrolling through the article and reaches the new visualization section
-
-#### Audience
-
--   Readers of the NYT, especially those interested in history and science
--   Gruesome nature has wide appeal
--   Persona informed design considerations
-    -   Tone - factual vs opinion (content derived from research publication)
-
-    -   Medium - web
-
-    -   Context - reference points in map and timeline
-
-#### Design choices
-
--   Style - imitate NYT through clean, sharp, figurative graphics
-
--   Interactivity
-
-    -   Trends on clickable tabs
-
-    -   Map can be filtered by phase, zoom, pan, layer choice, tooltip
-
-    -   Bar charts have tooltip for category and value
-
--   Affordances
-
-    -   Blue tab titles for clicking
-
-    -   Navigation is on display with tabs
-
--   Color
-
-    -   Earthy palette for timeline repeated for map markers
-
-    -   Grayscale bar charts to reduce cognitive load
-
-###  {.unnumbered}
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+------------------------------------------------------------------------
 
 ### Unearthing insights {.tabset}
 
